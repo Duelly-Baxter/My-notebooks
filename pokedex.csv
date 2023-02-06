@@ -1,4 +1,4 @@
-index,pokedex_number,name,generation,status,Fully Evolved,species,type_number,type_1,type_2,height_m,weight_kg,abilities_number,ability_1,ability_2,ability_hidden,total_points,hp,attack,defense,sp_attack,sp_defense,speed,growth_rate,egg_type_number,egg_type_1,egg_type_2
+index,pokedex_number,name,generation,status,fully_evolved,species,type_number,type_1,type_2,height_m,weight_kg,abilities_number,ability_1,ability_2,ability_hidden,total_points,hp,attack,defense,sp_attack,sp_defense,speed,growth_rate,egg_type_number,egg_type_1,egg_type_2
 0,1,Bulbasaur,1,Normal,0,Seed Pokémon,2,Grass,Poison,0.7,6.9,2,Overgrow,,Chlorophyll,318,45,49,49,65,65,45,Medium Slow,2,Grass,Monster
 1,2,Ivysaur,1,Normal,0,Seed Pokémon,2,Grass,Poison,1,13,2,Overgrow,,Chlorophyll,405,60,62,63,80,80,60,Medium Slow,2,Grass,Monster
 2,3,Venusaur,1,Normal,1,Seed Pokémon,2,Grass,Poison,2,100,2,Overgrow,,Chlorophyll,525,80,82,83,100,100,80,Medium Slow,2,Grass,Monster
